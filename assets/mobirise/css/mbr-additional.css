@@ -975,6 +975,19 @@ a {
 .cid-sdOKylNzB5 .mbr-section-title {
   color: #ffffff;
 }
+.cid-sdORdLakly {
+  padding-top: 1rem;
+  padding-bottom: 0rem;
+  background-color: #ffffff;
+}
+.cid-sdORdLakly .video-wrapper iframe {
+  width: 100%;
+}
+.cid-sdORdLakly .mbr-section-title,
+.cid-sdORdLakly .mbr-section-subtitle,
+.cid-sdORdLakly .mbr-text {
+  text-align: center;
+}
 .cid-scElMTEZZb {
   padding-top: 0rem;
   padding-bottom: 0rem;
